@@ -1,0 +1,8 @@
+C:\Users\johnr\source\repos\ROSELL_Conversion\ROSELL_Conversion\bin\Debug\ROSELL_Conversion.exe.config
+C:\Users\johnr\source\repos\ROSELL_Conversion\ROSELL_Conversion\bin\Debug\ROSELL_Conversion.exe
+C:\Users\johnr\source\repos\ROSELL_Conversion\ROSELL_Conversion\bin\Debug\ROSELL_Conversion.pdb
+C:\Users\johnr\source\repos\ROSELL_Conversion\ROSELL_Conversion\obj\Debug\ROSELL_Conversion.csproj.AssemblyReference.cache
+C:\Users\johnr\source\repos\ROSELL_Conversion\ROSELL_Conversion\obj\Debug\ROSELL_Conversion.csproj.SuggestedBindingRedirects.cache
+C:\Users\johnr\source\repos\ROSELL_Conversion\ROSELL_Conversion\obj\Debug\ROSELL_Conversion.csproj.CoreCompileInputs.cache
+C:\Users\johnr\source\repos\ROSELL_Conversion\ROSELL_Conversion\obj\Debug\ROSELL_Conversion.exe
+C:\Users\johnr\source\repos\ROSELL_Conversion\ROSELL_Conversion\obj\Debug\ROSELL_Conversion.pdb
